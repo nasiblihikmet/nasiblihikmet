@@ -1,0 +1,18 @@
+.list {
+    display: inline;
+}
+
+.list li {
+    list-style-type: none;
+}
+
+.list a {
+font-size: 22px;
+color: red;
+}
+
+
+
+.text-yellow{
+color: yellow; !important;
+}
