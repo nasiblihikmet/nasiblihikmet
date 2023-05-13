@@ -1,0 +1,12 @@
+checkout to main branch
+Create new branch from main- 
+Change/Update your files
+Add your changes
+Commit your changes
+Push your changes
+Create pull request
+Merge to main
+
+pull download
+push upload
+ 
