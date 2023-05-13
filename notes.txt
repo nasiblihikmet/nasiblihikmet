@@ -1,9 +1,9 @@
-checkout to main branch
-Create new branch from main- 
+checkout to main branch - git checkout <branch name>
+Create new branch from main- git checkout -b <myFeature>
 Change/Update your files
-Add your changes
-Commit your changes
-Push your changes
+Add your changes - git add <file>
+Commit your changes- git commit -m "<Message>"
+Push your changes-git push origin <branch name >
 Create pull request
 Merge to main
 
